@@ -49,7 +49,7 @@
 
 <style>
   video {
-    max-width: 20%;
+    max-width: 100%;
     height: auto;
   }
 </style>
